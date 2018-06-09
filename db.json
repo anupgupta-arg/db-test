@@ -1,0 +1,63 @@
+{
+    "external_userId_status": "-1",
+    "status": 1,
+    "message": "Success",
+    "details": [ {
+        "KONN": [
+            {
+                "category_id": "2",
+                "redemptionId": "4",
+                "redeemName": "TV",
+                "redeemImage": "https://s3-ap-southeast-1.amazonaws.com/acviss-product-images/dev/155/155152837736283.jpg",
+                "redeemDescription": "te",
+                "redeemPoints": "0"
+            },
+            {
+                "category_id": "2",
+                "redemptionId": "6",
+                "redeemName": "Inverter",
+                "redeemImage": "https://s3-ap-southeast-1.amazonaws.com/acviss-product-images/dev/155/155152844028150.jpg",
+                "redeemDescription": "high power inverters",
+                "redeemPoints": "1000"
+            }
+        ] },
+        {
+        "XYZ": [
+            {
+                "category_id": "2",
+                "redemptionId": "4",
+                "redeemName": "TV",
+                "redeemImage": "https://s3-ap-southeast-1.amazonaws.com/acviss-product-images/dev/155/155152837736283.jpg",
+                "redeemDescription": "te",
+                "redeemPoints": "0"
+            },
+            {
+                "category_id": "2",
+                "redemptionId": "6",
+                "redeemName": "Inverter",
+                "redeemImage": "https://s3-ap-southeast-1.amazonaws.com/acviss-product-images/dev/155/155152844028150.jpg",
+                "redeemDescription": "high power inverters",
+                "redeemPoints": "1000"
+            }
+        ] },
+        {
+        "ABC": [
+            {
+                "category_id": "2",
+                "redemptionId": "4",
+                "redeemName": "TV",
+                "redeemImage": "https://s3-ap-southeast-1.amazonaws.com/acviss-product-images/dev/155/155152837736283.jpg",
+                "redeemDescription": "te",
+                "redeemPoints": "0"
+            },
+            {
+                "category_id": "2",
+                "redemptionId": "6",
+                "redeemName": "Inverter",
+                "redeemImage": "https://s3-ap-southeast-1.amazonaws.com/acviss-product-images/dev/155/155152844028150.jpg",
+                "redeemDescription": "high power inverters",
+                "redeemPoints": "1000"
+            }
+        ] }
+    ]
+}
